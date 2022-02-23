@@ -1,0 +1,6 @@
+framework module GKSwiftStringPod {
+  umbrella header "GKSwiftStringPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

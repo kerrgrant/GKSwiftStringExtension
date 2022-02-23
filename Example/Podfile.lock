@@ -1,0 +1,16 @@
+PODS:
+  - GKSwiftStringPod (0.1.0)
+
+DEPENDENCIES:
+  - GKSwiftStringPod (from `../`)
+
+EXTERNAL SOURCES:
+  GKSwiftStringPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GKSwiftStringPod: 533517a0446f35a33d251db2d75336f4f669214f
+
+PODFILE CHECKSUM: e0fe39c05deecf92a1a26e1a75895f003a76bfd4
+
+COCOAPODS: 1.10.1
