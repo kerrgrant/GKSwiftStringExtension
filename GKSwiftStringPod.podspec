@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://apps-by-gk-5a29d.web.app/'
+  s.homepage         = 'https://github.com/kerrgrant/GKSwiftStringExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Grant Kerr' => 'kerr.grant@googlemail.com' }
-  s.source           = { :git => 'https://github.com/Grant Kerr/GKSwiftStringPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kerrgrant/GKSwiftStringExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
